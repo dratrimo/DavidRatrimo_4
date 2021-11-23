@@ -271,7 +271,9 @@ a:hover {
 .voffset-lg {
   margin-top: 80px;
 }
-
+blockquote {
+  margin: 0px;
+}
 .row-no-gutters {
   margin-right: 0;
   margin-left: 0;
@@ -679,7 +681,7 @@ a {
 }
 
 p {
-  font-size: 14px;
+  font-size: 15px;
 }
 
 .tight-width-whitespace {
