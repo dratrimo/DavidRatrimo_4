@@ -18,7 +18,7 @@ a:hover {
   cursor: pointer;
 }
 
-#page-loading-blocs-notifaction {
+#page-loading-cs-notifaction {
   position: fixed;
   top: 0;
   bottom: 0;
@@ -273,6 +273,7 @@ a:hover {
 }
 blockquote {
   margin: 0px;
+  color: black;
 }
 .row-no-gutters {
   margin-right: 0;
@@ -784,7 +785,7 @@ h4 {
 }
 
 .tc-yellow {
-  color: rgb(252, 207, 111) !important;
+  color: yellow !important;
 }
 
 .btn-atomic-tangerine {
