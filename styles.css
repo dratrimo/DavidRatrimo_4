@@ -275,6 +275,9 @@ blockquote {
   margin: 0px;
   color: black;
 }
+figcaption {
+  color: black;
+}
 .row-no-gutters {
   margin-right: 0;
   margin-left: 0;
